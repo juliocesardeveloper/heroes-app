@@ -1,7 +1,5 @@
 # Heroes app
 
-App created with create-react-app
-
 Learnings: 
 -How to make a searcher and its functionality
 
