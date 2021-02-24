@@ -1,9 +1,21 @@
+#Heroes app
+
+App created with create-react-app
+
+Learnings: 
+-How to make a searcher and its functionality
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+To install packages:
+### `npm install`
+
+To initialize the project:
 ### `npm start`
 
 Runs the app in the development mode.<br />
